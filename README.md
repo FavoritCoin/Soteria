@@ -44,8 +44,6 @@ chmod +x FavoritCoinMiner
 
 For rigs with older processors, use the FavoritCoinMiner_All.zip miner.
 
-
-
 ```bash
 wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
 ```
