@@ -19,12 +19,12 @@ High-performance GPU miner for Soteria (SOTER) cryptocurrency using X12R algorit
 ### Download
 Download the latest release from GitHub:
 ```bash
-wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux.zip
+wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_linux.zip
 ```
 
 Or using curl:
 ```bash
-curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux.zip
+curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_linux.zip
 ```
 
 ### Extract
@@ -33,7 +33,7 @@ curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favor
 sudo apt install unzip
 
 # Extract archive
-unzip favoritcoinminer_linux-x64.zip
+unzip FavoritCoinMiner_linux.zip
 
 # Navigate to directory
 cd favoritcoinminer
@@ -41,6 +41,14 @@ cd favoritcoinminer
 # Make executable
 chmod +x favoritcoinminer
 ```
+
+For rigs with older processors, use the FavoritCoinMiner_All.zip miner.
+
+wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
+
+curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
+
+unzip FavoritCoinMiner_All.zip
 
 ### Run
 
