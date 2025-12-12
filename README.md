@@ -36,19 +36,25 @@ sudo apt install unzip
 unzip FavoritCoinMiner_linux.zip
 
 # Navigate to directory
-cd favoritcoinminer
+cd FavoritCoinMiner
 
 # Make executable
-chmod +x favoritcoinminer
+chmod +x FavoritCoinMiner
 ```
 
 For rigs with older processors, use the FavoritCoinMiner_All.zip miner.
 
+
+
+```bash
 wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
-
+```
+```bash
 curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
-
+```
+```bash
 unzip FavoritCoinMiner_All.zip
+```
 
 ### Run
 
