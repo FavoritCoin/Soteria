@@ -18,29 +18,43 @@
 
 ### Скачивание
 Скачайте последнюю версию с GitHub:
+```bash
+wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_linux.zip
+```
 
-wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux-x64.zip
-
-
-Или используя curl:
-
-curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux.zip
+Or using curl:
+```bash
+curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_linux.zip
+```
 
 
 ### Распаковка
 
 # Установите unzip если не установлен
+```bash
+# Install unzip if not already installed
 sudo apt install unzip
 
-# Распакуйте архив
-unzip favoritcoinminer_linux.zip
+# Extract archive
+unzip FavoritCoinMiner_linux.zip
 
-# Перейдите в директорию
-cd favoritcoinminer
+# Navigate to directory
+cd FavoritCoinMiner
 
-# Сделайте файл исполняемым
-chmod +x favoritcoinminer
+# Make executable
+chmod +x FavoritCoinMiner
+```
+For rigs with older processors, use the FavoritCoinMiner_All.zip miner.
 
+```bash
+wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
+```
+```bash
+curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/FavoritCoinMiner_All.zip
+```
+```bash
+unzip FavoritCoinMiner_All.zip
+```
 
 ### Запуск
 
