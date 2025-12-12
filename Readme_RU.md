@@ -19,12 +19,12 @@
 ### Скачивание
 Скачайте последнюю версию с GitHub:
 
-wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer-linux-x64.zip
+wget https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux-x64.zip
 
 
 Или используя curl:
 
-curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer-linux-x64.zip
+curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favoritcoinminer_linux.zip
 
 
 ### Распаковка
@@ -33,7 +33,7 @@ curl -L -O https://github.com/FavoritCoin/Soteria/releases/download/v2.0.0/favor
 sudo apt install unzip
 
 # Распакуйте архив
-unzip favoritcoinminer-linux-x64.zip
+unzip favoritcoinminer_linux.zip
 
 # Перейдите в директорию
 cd favoritcoinminer
