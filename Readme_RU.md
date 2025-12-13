@@ -2,6 +2,10 @@
 
 Высокопроизводительный GPU-майнер для криптовалюты Soteria (SOTER) на алгоритме X12R.
 
+Если у вас новый процессор, используйте FavoritCoinMiner_linux.zip
+Если старый, используйте FavoritCoinMiner_All.zip
+Для майнинга в НивеОС используйте кастомный майнер FavoritCoinMiner-hive.tar.gz
+
 ## Особенности
 
 - ⚡ **CUDA-оптимизация** для видеокарт NVIDIA
