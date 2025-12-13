@@ -1,6 +1,10 @@
 # FavoritCoinMiner
 
-High-performance GPU miner for Soteria (SOTER) cryptocurrency using X12R algorithm.
+High-performance GPU miner for Soteria (SOTER) cryptocurrency using Soterg algorithm.
+
+If you have a new processor, use FavoritCoinMiner_linux.zip
+If you have an older processor, use FavoritCoinMiner_All.zip
+For mining in NiveOS, use the custom miner FavoritCoinMiner-hive.tar.gz
 
 ## Features
 
